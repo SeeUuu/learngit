@@ -1,0 +1,14 @@
+import MySQLdb
+
+print(hello)
+print(xinyang)
+
+
+123123123123
+8888
+
+status
+
+hello
+
+
